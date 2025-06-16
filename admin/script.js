@@ -31,6 +31,7 @@ const names = [
   { id: "29", names: "Дорогой друг Влад" },
   { id: "30", names: "Дорогой друг Егор" },
   { id: "31", names: "Дорогой Данила" },  
+  { id: "32", names: "Александр и Анна" },
 ];
 
 const baseURL = location.href.replace('admin/', ''); //location.origin
